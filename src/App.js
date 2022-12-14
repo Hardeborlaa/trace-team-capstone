@@ -1,8 +1,13 @@
-import './App.css';
+import React from 'react';
+import Shop from './components/Shop';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div>Hello WORLD</div>
+    <div>
+      <Shop/>
+      <Footer/>
+    </div>
   );
 }
 
