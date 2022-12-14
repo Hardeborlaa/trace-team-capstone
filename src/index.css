@@ -2,3 +2,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.orange-text {
+    margin-left: 2em;
+    color: #CF2929;
+}
+
+
+.img-ten {
+    background-color: rgba(0, 0, 0, 0.5);
+}

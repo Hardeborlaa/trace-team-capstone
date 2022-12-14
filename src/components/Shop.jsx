@@ -15,7 +15,7 @@ const Shop = () => {
         //     </div>
         // </div>
 
-        <div className='mt-2'>
+        <div className='mt-32 relative'>
             <img src={Women} alt="" className='w-full'/>
             <div className='absolute sm:top-48 lg:top-96 sm:left-20 lg:left-40'>
             <p className='text-gray-900 sm:text-sm lg:text-2xl font-medium mt-4 pb-3'>OWN THE DAY</p>
@@ -25,6 +25,7 @@ const Shop = () => {
                 </div>
             </div>
         </div>
+            
     );
 }
  
