@@ -44,7 +44,7 @@ const Footer = () => {
                 placeholder="Your Email Address"
                 className="footer-input py-3 px-5 w-4/5 rounded-lg" 
               />
-              <button>Join</button>
+              <button className=''>Join</button>
             </form>
           </div>
           <div className="footer-wrapper lg:col-span-2 flex justify-between mt-6">
