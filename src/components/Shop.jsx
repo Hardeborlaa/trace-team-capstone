@@ -17,9 +17,9 @@ const Shop = () => {
 
         <div className='mt-2'>
             <img src={Women} alt="" className='w-full'/>
-            <div className='absolute sm:top-48 lg:top-96 sm:left-20 lg:left-40  '>
-            <p className='text-gray-900 sm:text-sm lg:text-2xl font-medium mt-4'>OWN THE DAY</p>
-                <h1 className='sm:text-4xl lg:text-7xl font-extrabold text-gray-900'>TACHEN 19</h1>
+            <div className='absolute sm:top-48 lg:top-96 sm:left-20 lg:left-40'>
+            <p className='text-gray-900 sm:text-sm lg:text-2xl font-medium mt-4 pb-3'>OWN THE DAY</p>
+                <h1 className='sm:text-4xl lg:text-7xl font-extrabold text-gray-900 pb-3'>TACHEN 19</h1>
                 <div className='mt-2'>
                     <button className='bg-gray-900 px-6 py-2 text-white rounded-md'>SHOP COLLECTION</button>
                 </div>
