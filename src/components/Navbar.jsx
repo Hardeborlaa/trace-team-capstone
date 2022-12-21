@@ -188,7 +188,7 @@ const Nav = styled.nav`
   height: 3.5rem;
   font-size: 1em;
   z-index: 20;
-  background-color: #eee;
+  background-color: #fff;
   @media (max-width: 768px) {
     font-size: 0.85rem;
     border: none;
@@ -209,7 +209,7 @@ const NavContainer = styled.div`
     border-bottom: 1.5px solid #cfcfd0;
   }
   @media (max-width: 500px) {
-    background-color: #eee;
+    background-color: #fff;
   }
 `;
 
